@@ -4,3 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "tech tree aim graph network map"
+
+[build]
+
+[preprocessor.index]

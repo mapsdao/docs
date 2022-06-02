@@ -1,5 +1,7 @@
 # Summary
 
+[Introduction](README.md)
+
 # Vision
 - [coming from various directions](./motivations.md)
 - [common vision](./vision.md)
