@@ -15,3 +15,5 @@ run `mdbook serve`. Look at console output to see on which port the book is now 
 ## contribution
 If you make changes or create articles, do so in a new branch and create a pull request when done. 
 Wait for at least two approvals of peer authors before merging. 
+
+Add youself to the authors in 'book.toml', if you are making substantial contributions. 
